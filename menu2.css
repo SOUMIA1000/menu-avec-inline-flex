@@ -1,0 +1,54 @@
+.myt{
+background-color: aquamarine;
+
+
+
+}
+
+.myt ul
+{
+background-color: aquamarine;
+display:inline-flex;
+list-style: none;
+
+padding-right:0;
+margin-bottom:1PX;
+}
+.myt ul li {
+margin:1PX;
+width:200PX;
+color: rgb(245, 43, 124);
+
+}
+.myt1 ul
+{
+display:inline-flex;
+list-style: none;
+padding-right:0;
+margin:1PX;
+margin-top:0;
+}
+.myt1 
+{
+    margin: 0;
+}
+
+
+.myt1 ul li {
+
+width:202PX;
+color: rgb(105, 96, 100);
+font-size:15px;
+
+}
+.btn{
+ border-radius: 1ch;
+margin:5px;
+padding:5px;
+
+
+}
+
+  .btn:hover {
+  background-color: bisque;
+  }
